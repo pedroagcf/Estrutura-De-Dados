@@ -6,8 +6,7 @@ CONFIG -= qt
 SOURCES += \
     lib/pen.cpp \
     lib/cpen.cpp \
-    aluno/frac_exemplos_cpp.cpp \
-    aluno/frac_exemplos_c.cpp
+    aluno/FlocoDeNeve.cpp
 
 HEADERS += \
     lib/cpen.h \
