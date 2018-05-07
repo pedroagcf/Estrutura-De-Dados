@@ -1,1 +1,1 @@
-Certamente a atividade de fractais é a que tem me dado mais dor de cabeça. Fracassei inumeras vezes até chegar ao objetivo. Levei bastante para terminar a tarefa e tambem precisei contar com ajuda de amigos. 
+Certamente a atividade de fractais é a que tem me dado mais dor de cabeça. Fracassei inumeras vezes até chegar ao objetivo. Levei bastante tempo para terminar a tarefa, cerca de 1 semana. Precisei contar com ajuda de amigos. Depois de uma certa ajuda e um bom tempo tentado o codigo ficou pronto, extremamente gratificante.
