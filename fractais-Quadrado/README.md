@@ -1,7 +1,1 @@
-Pen
-=====
-
-
-Para instalar as dependencias no ubuntu 14.04::
-
-    sudo apt-get install g++ git libsfml-dev libsfml-audio2 libsfml-doc libsfml-graphics2 libsfml-network2 libsfml-system2 libsfml-window2
+Dos três fractais, este foi o mais facil de implementar. Consegui fazer sozinho, apesar de ter demorado um tempo significativo. Foram 2 dias pra concluir esta tarefa.
