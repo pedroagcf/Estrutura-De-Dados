@@ -43,7 +43,7 @@ void fractal(){
 
     //se speed = 0 entao ele faz o mais rapido possivel
     //se foi a partir de 1 ele controla a velocidade
-    p.setSpeed(0);
+    p.setSpeed(50);
 
     trigo(p, 100);
     //triangulo(p, 400);
