@@ -1,1 +1,0 @@
-O periodo deste semestre está muito agitado e desacompanhei o ritmo da disciplina. Passei mais de uma semana trabalhando no código e mesmo assim nao conclui a tarefa, faltando as funçoes control C e control R. Fiz a atividade sozinho. 
